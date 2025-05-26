@@ -1,0 +1,5 @@
+feh
+alacritty
+lxappeareance
+rofi 
+

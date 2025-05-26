@@ -1,0 +1,6 @@
+feh
+alacritty
+lxappeareance
+rofi
+neovim
+
